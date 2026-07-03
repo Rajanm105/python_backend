@@ -1,0 +1,4 @@
+/user_authentication/.env
+requirements.txt
+/user_authentication/__pycache__
+/notes_api/__pycache__
