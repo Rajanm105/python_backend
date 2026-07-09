@@ -6,3 +6,11 @@ requirements.txt
 /email_assistant/app/__pycache__
 /email_assistant/app/routers/__pycache__
 /email_assistant/app/services/__pycache__
+/payment_service/.env
+/payment_service/payments.db
+/payment_service/app/__pycache__
+/payment_service/app/routes/__pycache__
+/payment_service/app/services/__pycache__
+/payment_service/app/models/__pycache__
+/payment_service/app/schemas/__pycache__
+
