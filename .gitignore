@@ -1,0 +1,7 @@
+/user_authentication/.env
+requirements.txt
+/user_authentication/__pycache__
+/notes_api/__pycache__
+/email_assistant/app/__pycache__
+/email_assistant/app/routers/__pycache__
+/email_assistant/.env
