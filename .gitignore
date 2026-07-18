@@ -13,4 +13,7 @@ requirements.txt
 /payment_service/app/services/__pycache__
 /payment_service/app/models/__pycache__
 /payment_service/app/schemas/__pycache__
-
+/file_upload_service/app/__pycache__
+/file_upload_service/app/api/__pycache__
+/file_upload_service/app/services/__pycache__
+/file_upload_service/app/utils/__pycache__
